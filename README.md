@@ -1,5 +1,6 @@
 **Summary of class progress**
-The latest summary plot is [here]().
+![](./plots/summary_plot.png)
+
 
 **Student instructions**
 Student instructions are [here]().
