@@ -1,8 +1,13 @@
+[<img alt="alt_text" width="400px" src="https://github.com/lucydot/ChooChoo/raw/main/docs/images/icon.png" />](github.com/lucydot/choochoo)
+
 **Summary of class progress**
+
 ![](./plots/summary_plot.png)
 
-**Student instructions**
-Student instructions are [here]().
+**Links**
+- Class repository (TODO)
 
-**Instructor instructions**
-Instructor instructions are [here]().
+**Instructions**  
+
+- Student instructions are [here]().
+- Instructor instructions are [here]().
