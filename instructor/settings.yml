@@ -1,19 +1,17 @@
 # Key settings (must edit)
-project_title: Choochoo template repository
-project_repo: lucydot/ChooChoo-template
+project_title: KD5081 Checklist
+project_repo: lucydot/KD5081-ChooChoo
 admins:
 - lucydot
-- choochoo-bot
 instructors:
 - lucydot
 students:
 - lucydot
-- choochoo-bot
-web_address: https://lucydot.github.io/ChooChoo-template
+web_address: https://lucydot.github.io/KD5081-ChooChoo
 
 # User options (may edit)
 questions: true
-votes_required: 3
+votes_required: 4
 gh-pages: true
 gh-pages_branch: gh-pages
 
