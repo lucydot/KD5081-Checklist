@@ -1,13 +1,13 @@
 # Key settings (must edit)
 project_title: KD5081 Checklist
-project_repo: lucydot/KD5081-ChooChoo
+project_repo: lucydot/KD5081-Checklist
 admins:
 - lucydot
 instructors:
 - lucydot
 students:
 - lucydot
-web_address: https://lucydot.github.io/KD5081-ChooChoo
+web_address: https://lucydot.github.io/KD5081-Checklist
 
 # User options (may edit)
 questions: true
