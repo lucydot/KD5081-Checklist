@@ -16,7 +16,6 @@ The Checklist below is designed to help you **recap on the Python topics covered
 Your personal checklist is generated below. You can also interact with me, choochoo-bot, using commands in this thread. 
 To list all possible choochoo commands type `choochoo list commands` in comment box below.
 
-
 ### Running Python |   [links](https://lucydot.github.io/python_novice/01-run-quit/index.html)  | 
 1) - [ ] Create a new Jupyter Notebook |    
 2) - [ ] Save and download a Jupyter Notebook |    
@@ -78,7 +77,7 @@ To list all possible choochoo commands type `choochoo list commands` in comment 
 31) - [ ] Import a library using an alias (nickname) |    
 
 
-### Storing data in Numpy arrays |   [links](https://lucydot.github.io/python_novice/12-numpy-intro/index.html)  | 
+### Storing data in Numpy arrays |   [links](https://lucydot.github.io/python_novice/12-numpy-intro/index.html)  | [download data](https://lucydot.github.io/python_novice/setup/) |
 32) - [ ] Read in data from a text file |    
 33) - [ ] Describe the difference between Numpy arrays and Python lists |    
 34) - [ ] Write a Numpy array to a text file |    
@@ -90,13 +89,13 @@ To list all possible choochoo commands type `choochoo list commands` in comment 
 40) - [ ] Combine the enumerate function with a `for` loop to populate a Numpy array |    
 
 
-### Retrieving data from Numpy arrays |   [links](https://lucydot.github.io/python_novice/13-numpy-selecting/index.html)  | 
+### Retrieving data from Numpy arrays |   [links](https://lucydot.github.io/python_novice/13-numpy-selecting/index.html)   | [download data](https://lucydot.github.io/python_novice/setup/) |
 41) - [ ] Use array indexing to select a single element from a 2D array |    
 42) - [ ] Use array slicing to select a column of a 2D array |    
 43) - [ ] Use array slicing to select a row of a 2D array |    
 
 
-### Visualizing data with Matplotlib |   [links](https://lucydot.github.io/python_novice/14-visualising-data/index.html)  | 
+### Visualizing data with Matplotlib |   [links](https://lucydot.github.io/python_novice/14-visualising-data/index.html)   | [download data](https://lucydot.github.io/python_novice/setup/) | 
 44) - [ ] Generate a basic line plot |    
 45) - [ ] Generate a basic scatter plot |    
 46) - [ ] Label the plot with an x-axis label, y-axis label and title |    
@@ -105,7 +104,7 @@ To list all possible choochoo commands type `choochoo list commands` in comment 
 49) - [ ] Save a plot as a `.png` file |    
 
 
-### Analysing data using Numpy |   [links](https://lucydot.github.io/python_novice/15-numpy-analysis/index.html)  | 
+### Analysing data using Numpy |   [links](https://lucydot.github.io/python_novice/15-numpy-analysis/index.html)   | [download data](https://lucydot.github.io/python_novice/setup/) |
 50) - [ ] Use the least-squares method to fit a polynomial function to data |    
 51) - [ ] Plot the polynomial fit alongside the raw data for comparison |    
 52) - [ ] Use Numpy array operations to perform mathematical operations across an array |    
